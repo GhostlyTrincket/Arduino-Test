@@ -1,8 +1,8 @@
 #include <WiFi.h>
 //#include <ArduinoJson>
 
-const char* wifi_name = "HOMERSIMPSON";
-const char* wifi_password = "4D2A1BC2";
+const char* wifi_name = "NAME";
+const char* wifi_password = "PASSWORD";
 String header;
 
 WiFiServer server(8080);
